@@ -1,0 +1,1 @@
+warning CS8785: Generator 'PropertyBagGenerator' failed to generate source. It will not contribute to the output and compilation errors may occur as a result. Exception was of type 'OutOfMemoryException' with message 'Exception of type 'System.OutOfMemoryException' was thrown.'

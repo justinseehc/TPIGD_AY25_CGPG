@@ -1,0 +1,14 @@
+D:\OneDrive - Temasek Polytechnic\Year 2\Semester 1\CGPG\C#\Week3_Lesson\Week3_Lesson\bin\Debug\net8.0\Week3_Lesson.exe
+D:\OneDrive - Temasek Polytechnic\Year 2\Semester 1\CGPG\C#\Week3_Lesson\Week3_Lesson\bin\Debug\net8.0\Week3_Lesson.deps.json
+D:\OneDrive - Temasek Polytechnic\Year 2\Semester 1\CGPG\C#\Week3_Lesson\Week3_Lesson\bin\Debug\net8.0\Week3_Lesson.runtimeconfig.json
+D:\OneDrive - Temasek Polytechnic\Year 2\Semester 1\CGPG\C#\Week3_Lesson\Week3_Lesson\bin\Debug\net8.0\Week3_Lesson.dll
+D:\OneDrive - Temasek Polytechnic\Year 2\Semester 1\CGPG\C#\Week3_Lesson\Week3_Lesson\bin\Debug\net8.0\Week3_Lesson.pdb
+D:\OneDrive - Temasek Polytechnic\Year 2\Semester 1\CGPG\C#\Week3_Lesson\Week3_Lesson\obj\Debug\net8.0\Week3_Lesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Temasek Polytechnic\Year 2\Semester 1\CGPG\C#\Week3_Lesson\Week3_Lesson\obj\Debug\net8.0\Week3_Lesson.AssemblyInfoInputs.cache
+D:\OneDrive - Temasek Polytechnic\Year 2\Semester 1\CGPG\C#\Week3_Lesson\Week3_Lesson\obj\Debug\net8.0\Week3_Lesson.AssemblyInfo.cs
+D:\OneDrive - Temasek Polytechnic\Year 2\Semester 1\CGPG\C#\Week3_Lesson\Week3_Lesson\obj\Debug\net8.0\Week3_Lesson.csproj.CoreCompileInputs.cache
+D:\OneDrive - Temasek Polytechnic\Year 2\Semester 1\CGPG\C#\Week3_Lesson\Week3_Lesson\obj\Debug\net8.0\Week3_Lesson.dll
+D:\OneDrive - Temasek Polytechnic\Year 2\Semester 1\CGPG\C#\Week3_Lesson\Week3_Lesson\obj\Debug\net8.0\refint\Week3_Lesson.dll
+D:\OneDrive - Temasek Polytechnic\Year 2\Semester 1\CGPG\C#\Week3_Lesson\Week3_Lesson\obj\Debug\net8.0\Week3_Lesson.pdb
+D:\OneDrive - Temasek Polytechnic\Year 2\Semester 1\CGPG\C#\Week3_Lesson\Week3_Lesson\obj\Debug\net8.0\Week3_Lesson.genruntimeconfig.cache
+D:\OneDrive - Temasek Polytechnic\Year 2\Semester 1\CGPG\C#\Week3_Lesson\Week3_Lesson\obj\Debug\net8.0\ref\Week3_Lesson.dll
