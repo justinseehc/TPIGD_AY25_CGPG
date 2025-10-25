@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Profile 1": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\OneDrive - Temasek Polytechnic\\Year 2\\Semester 1\\CGPG\\week12_c#\\cgpg-week12-start\\Week12"
+    }
+  }
+}
