@@ -1,0 +1,313 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7570121123506805739
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6967942858507217497}
+  m_Layer: 0
+  m_Name: Pierce Tower
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6967942858507217497
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7570121123506805739}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 416340971809195788}
+  - {fileID: 101210383392357845}
+  - {fileID: 669921894111405793}
+  - {fileID: 8109419936623815596}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &101210383391958871
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 6967942858507217497}
+    m_Modifications:
+    - target: {fileID: 100002, guid: 4ad4d118135c245edab8dd297968d190, type: 3}
+      propertyPath: m_Name
+      value: MESH Piercing Tower Weapon
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 4ad4d118135c245edab8dd297968d190, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 4ad4d118135c245edab8dd297968d190, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 4ad4d118135c245edab8dd297968d190, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 4ad4d118135c245edab8dd297968d190, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 4ad4d118135c245edab8dd297968d190, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 4ad4d118135c245edab8dd297968d190, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 4ad4d118135c245edab8dd297968d190, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 4ad4d118135c245edab8dd297968d190, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 4ad4d118135c245edab8dd297968d190, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 4ad4d118135c245edab8dd297968d190, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 4ad4d118135c245edab8dd297968d190, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 4ad4d118135c245edab8dd297968d190, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ab9adaa79d7fc446d9c6f792f5f15a6d, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4ad4d118135c245edab8dd297968d190, type: 3}
+--- !u!4 &101210383392357845 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400002, guid: 4ad4d118135c245edab8dd297968d190, type: 3}
+  m_PrefabInstance: {fileID: 101210383391958871}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &416340971809594766
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 6967942858507217497}
+    m_Modifications:
+    - target: {fileID: 100002, guid: df4b6442ec25c40168acf69b252104c3, type: 3}
+      propertyPath: m_Name
+      value: MESH Piercing Tower Base
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: df4b6442ec25c40168acf69b252104c3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: df4b6442ec25c40168acf69b252104c3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: df4b6442ec25c40168acf69b252104c3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: df4b6442ec25c40168acf69b252104c3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: df4b6442ec25c40168acf69b252104c3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: df4b6442ec25c40168acf69b252104c3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: df4b6442ec25c40168acf69b252104c3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: df4b6442ec25c40168acf69b252104c3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: df4b6442ec25c40168acf69b252104c3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: df4b6442ec25c40168acf69b252104c3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: df4b6442ec25c40168acf69b252104c3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9f4a464c478bd418ba182833523f0571, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: df4b6442ec25c40168acf69b252104c3, type: 3}
+--- !u!4 &416340971809195788 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400002, guid: df4b6442ec25c40168acf69b252104c3, type: 3}
+  m_PrefabInstance: {fileID: 416340971809594766}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &669921894111280227
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 6967942858507217497}
+    m_Modifications:
+    - target: {fileID: 100002, guid: f3df49ea36e3247458b492ead53f2e3b, type: 3}
+      propertyPath: m_Name
+      value: MESH Piercing Tower Weapon Base
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f3df49ea36e3247458b492ead53f2e3b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: f3df49ea36e3247458b492ead53f2e3b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: f3df49ea36e3247458b492ead53f2e3b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: f3df49ea36e3247458b492ead53f2e3b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: f3df49ea36e3247458b492ead53f2e3b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: f3df49ea36e3247458b492ead53f2e3b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: f3df49ea36e3247458b492ead53f2e3b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: f3df49ea36e3247458b492ead53f2e3b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: f3df49ea36e3247458b492ead53f2e3b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: f3df49ea36e3247458b492ead53f2e3b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: f3df49ea36e3247458b492ead53f2e3b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: f3df49ea36e3247458b492ead53f2e3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 848cd6176163a4cf8aa7c5629b5ee2a0, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f3df49ea36e3247458b492ead53f2e3b, type: 3}
+--- !u!4 &669921894111405793 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400002, guid: f3df49ea36e3247458b492ead53f2e3b, type: 3}
+  m_PrefabInstance: {fileID: 669921894111280227}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8109419936623423790
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 6967942858507217497}
+    m_Modifications:
+    - target: {fileID: 100002, guid: 01bda7100c8d44a3b84136d1d4807cb9, type: 3}
+      propertyPath: m_Name
+      value: MESH Piercing Tower Weapon Projectile
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 01bda7100c8d44a3b84136d1d4807cb9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 01bda7100c8d44a3b84136d1d4807cb9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 01bda7100c8d44a3b84136d1d4807cb9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 01bda7100c8d44a3b84136d1d4807cb9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 01bda7100c8d44a3b84136d1d4807cb9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 01bda7100c8d44a3b84136d1d4807cb9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 01bda7100c8d44a3b84136d1d4807cb9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 01bda7100c8d44a3b84136d1d4807cb9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 01bda7100c8d44a3b84136d1d4807cb9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 01bda7100c8d44a3b84136d1d4807cb9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 01bda7100c8d44a3b84136d1d4807cb9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 01bda7100c8d44a3b84136d1d4807cb9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d66625a53997940ef981fddc3096e4af, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 01bda7100c8d44a3b84136d1d4807cb9, type: 3}
+--- !u!4 &8109419936623815596 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400002, guid: 01bda7100c8d44a3b84136d1d4807cb9, type: 3}
+  m_PrefabInstance: {fileID: 8109419936623423790}
+  m_PrefabAsset: {fileID: 0}
